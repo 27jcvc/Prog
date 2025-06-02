@@ -1,0 +1,85 @@
+El preu d'una casa de luxe no pot ser inferior a 500.000 €
+Un pis de luxe més amunt de la primera planta ha de tenir ascensor
+Ja existeix un habitatge d'aquest propietari en aquesta adreça
+No existeix un habitatge d'aquest propietari en aquesta adreça
+
+TOTS
+----------------------------------
+
+Propietari: Peter
+Adreça:     Pl. Catalunya, 25
+Preu final: 593.000,00 €
+Comissió:   56.000,00 €
+Jardí:      No
+
+Propietari: Peter
+Adreça:     Av. Tibidabo, 120
+Preu final: 666.500,00 €
+Comissió:   63.000,00 €
+Jardí:      Sí
+
+Propietari: Mary
+Adreça:     Pg. Bonanova, 34
+Preu final: 792.500,00 €
+Comissió:   75.000,00 €
+Jardí:      Sí
+
+Propietari: Mary
+Adreça:     C. Muntaner, 250
+Preu final: 855.500,00 €
+Comissió:   81.000,00 €
+Jardí:      No
+
+Propietari: John
+Adreça:     Av. Diagonal, 81, 1r, 2a
+Preu final: 518.400,00 €
+Comissió:   35.600,00 €
+Planta:     1
+Ascensor:   No
+
+Propietari: Betty
+Adreça:     Pl. Consell, 13, Àtic B
+Preu final: 430.920,00 €
+Comissió:   29.930,00 €
+Planta:     5
+Ascensor:   Sí
+
+CASES
+----------------------------------
+
+Propietari: Peter
+Adreça:     Pl. Catalunya, 25
+Preu final: 593.000,00 €
+Comissió:   56.000,00 €
+Jardí:      No
+
+Propietari: Peter
+Adreça:     Av. Tibidabo, 120
+Preu final: 666.500,00 €
+Comissió:   63.000,00 €
+Jardí:      Sí
+
+Propietari: Mary
+Adreça:     C. Muntaner, 250
+Preu final: 855.500,00 €
+Comissió:   81.000,00 €
+Jardí:      No
+
+PISOS
+----------------------------------
+
+Propietari: John
+Adreça:     Av. Diagonal, 81, 1r, 2a
+Preu final: 518.400,00 €
+Comissió:   35.600,00 €
+Planta:     1
+Ascensor:   No
+
+Propietari: Betty
+Adreça:     Pl. Consell, 13, Àtic B
+Preu final: 430.920,00 €
+Comissió:   29.930,00 €
+Planta:     5
+Ascensor:   Sí
+
+Process finished with exit code 0
