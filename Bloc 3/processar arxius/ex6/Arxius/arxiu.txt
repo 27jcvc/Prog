@@ -1,0 +1,73 @@
+------------------------------------------------------------
+Operari: Pau Gasoil
+Matricula: 1234-ABC
+Import: 30,50
+* Import amb dte (20%): 24,40
+Infraccio: Mal aparcat
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Mireia del Monte
+Matricula: 5678-DEF
+Import: 50,80
+* Import amb dte (20%): 40,64
+Infraccio: No ha passat la ITV
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Andres Lasiesta
+Matricula: 4321-FED
+Import: 60,00
+* Import amb dte (20%): 48,00
+Infraccio: Bloqueja un vado permanent
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Mireia del Monte
+Matricula: 8765-CBA
+Import: 40,00
+* Import amb dte (20%): 32,00
+Infraccio: Sense ticket
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Andres Lasiesta
+Matricula: 1029-ASD
+Import: 30,50
+* Import amb dte (20%): 24,40
+Infraccio: Ticket caducat
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Andres Lasiesta
+Matricula: 4321-FED
+Import: 60,00
+* Import amb dte (20%): 48,00
+Infraccio: No m’agrada el color
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Mireia del Monte
+Matricula: 1029-ASD
+Import: 35,00
+* Import amb dte (20%): 28,00
+Infraccio: Ocupa doble espai
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Pau Gasoil
+Matricula: 1234-ABC
+Import: 46,30
+* Import amb dte (20%): 37,04
+Infraccio: Ocupa plaça de minusvàlid
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Andres Lasiesta
+Matricula: 6939-JKL
+Import: 29,90
+* Import amb dte (20%): 23,92
+Infraccio: Pujat sobre la vorera
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Operari: Mireia del Monte
+Matricula: 2513-XYZ
+Import: 99,99
+* Import amb dte (20%): 79,99
+Infraccio: Aparcat en diagonal!
+(*) Es descomptarà un 20% si es paga abans de 30 dies.
+------------------------------------------------------------
+Total import multes: 482,99
+------------------------------------------------------------
