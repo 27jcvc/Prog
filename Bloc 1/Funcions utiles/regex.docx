@@ -1,0 +1,76 @@
+1. .
+
+    Significa: Cualquier carácter excepto salto de línea.
+
+    Ejemplo: El patrón a.b coincide con "acb", "a1b", "a b", etc.
+
+2. .?
+
+    Significa: Un carácter cualquiera opcional (cero o uno).
+
+    Ejemplo: a.?b coincide con "ab", "acb", "a b", etc.
+
+3. .+
+
+    Significa: Uno o más caracteres (cualquiera excepto salto de línea).
+
+    Ejemplo: a.+b coincide con "acb", "axyzb", pero no con "ab" (porque exige al menos un carácter entre a y b).
+
+4. .*
+
+    Significa: Cero o más caracteres.
+
+    Ejemplo: a.*b coincide con "ab", "acb", "axyzb", etc.
+
+5. \.
+
+    Significa: Un punto literal.
+
+    Porque el punto . por sí solo es un comodín, se usa \. para que signifique literalmente el carácter ..
+
+    Ejemplo: Coincide con "3.14", "archivo.txt", etc.
+
+6. .{3,5}
+
+    Significa: Entre 3 y 5 caracteres cualquiera (excepto salto de línea).
+
+    Ejemplo: Coincide con "abc", "abcd", "abcde" pero no con "ab" ni con "abcdef".
+
+7. [A-Za-z]{3}
+
+    Significa: Exactamente 3 letras (mayúsculas o minúsculas).
+
+    Ejemplo: Coincide con "abc", "XYZ", "mNO", etc.
+
+8. \(\)
+
+    Significa: Los paréntesis literales () (porque ( y ) tienen funciones especiales en regex y se escapan con \).
+
+    Ejemplo: Coincide con el texto "()", tal cual.
+
+9. \d{4}
+
+    Significa: Cuatro dígitos numéricos.
+
+    \d es lo mismo que [0-9].
+
+    Ejemplo: Coincide con "1999", "2024", etc.
+
+10. \d\d?\\\d{4}
+
+    Desglosado:
+
+        \d → un dígito.
+
+        \d? → un segundo dígito opcional.
+
+        \\ → una barra invertida literal (\).
+        En regex, una sola barra invertida necesita ser escapada con otra.
+
+        \d{4} → cuatro dígitos.
+
+    Ejemplo: Coincide con fechas como:
+
+        "1\2020" → día 1, año 2020.
+
+        "12\2024" → día 12, año 2024.
